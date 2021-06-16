@@ -1,6 +1,6 @@
-# 1ELE713_SEM11_Prova1
+# 1ELE713_SEM19_Prova2
 
-Primeira prova de Modelagem de Sistemas Dinâmicos. A prova encontra-se no arquivo 1ELE713-Sem11-Prova1.pdf, neste repositório.
+Segunda prova de Modelagem de Sistemas Dinâmicos. A prova encontra-se no arquivo 1ELE713-Sem19-Prova2.pdf, neste repositório.
 
 Observações:
 
